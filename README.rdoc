@@ -1,4 +1,6 @@
-= GOYELLO Redmine Schedules
+= Goyello Redmine Schedules (@Depracated)
+
+Note: This plugin is not maintained anymore.
 
 The Schedules plugin allows allocating users to projects and track this allocation in time. 
 Allocation process can be done by simply scheduling to member a number of hours for a given day in a particular project, or can base on the time previously booked for tickets assigned to a user.
@@ -58,7 +60,7 @@ This plugin is licensed under the GNU GPL v2.  See COPYRIGHT.txt and GPL.txt for
 
 == Authored by:
 * Base code: Brad Beattie, Gossamer Threads Inc. (http://www.gossamer-threads.com)
-* Developed by: GOYELLO.com
+* Developed by: goyello.com
 
 == Credits:
 Thanks go to the following people for patches and contributions:
